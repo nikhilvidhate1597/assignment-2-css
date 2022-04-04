@@ -1,0 +1,251 @@
+html, body {
+  background-image: url(./image.webp);
+  margin:0;
+  height:100%;
+  background-size: 100% 500%;
+  background-repeat: no-repeat;  
+}
+.bg-container {
+    width:100%;
+    height:300%; 
+    border:10px groove green;
+    box-sizing:border-box;
+}
+.flex-container {
+  background-color: black;
+  border: 5px solid red;
+  border-radius:50px;
+  width: 350px;
+  height: 100px;
+  margin: 20px;
+  padding: 20px;
+  color: white;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 1.6em;
+  font-style: italic;
+}
+.test{
+  text-indent: 50px;
+}
+.flex-container1 {
+  background-color:black;
+  border: 5px solid red;
+  border-radius:50px;
+  width: 400px;
+  height: 80px;
+  position: absolute;
+  top: 50px;
+  left:250px;
+  color: white;
+  text-align: center;
+  font-size: 1.5em;
+  font-style: italic;
+}
+.flex-container2 {
+  background-color:black;
+  border: 5px solid red;
+  border-radius:50px;
+  width: 400px;
+  height: 150px;
+  position: absolute; 
+  top: 50px;
+  right: 5px;
+  color: white;
+  text-align:center;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 1.2em;
+  font-weight:bold;
+}
+.flex-container3{
+  background-color:white;
+  border: 5px solid red;
+  border-style: dashed;
+  width: 350px;
+  height: 700px;
+  position: absolute;
+  top: 300px;
+  right: 300px;
+  text-align: center;
+}
+h2{
+  color: rgba(201, 15, 24, 0.699);
+}
+.title1{
+  color: brown;
+  font-size: 1.3em;
+}
+span.a{
+  color: black;
+  font-size: 0.7em;
+  font-family: 'Times New Roman', Times, serif;
+  width: 150px;
+}
+.title2{
+  color: brown;
+  font-size: 1.3em;
+}
+span.b{
+  color: black;
+  font-size: 0.7em;
+  font-family: 'Times New Roman', Times, serif;
+  width: 150px;
+}
+.title3{
+  color: brown;
+  font-size: 1.3em;
+}
+span.c{
+  color: black;
+  font-size: 0.7em;
+  font-family: 'Times New Roman', Times, serif;
+  width: 350px;
+
+}
+.title4{
+  color: brown;
+  font-size: 1.3em;
+}
+span.d{
+  color: black;
+  font-size: 0.7em;
+  font-family: 'Times New Roman', Times, serif;
+  width: 150px;
+}
+input[type=text]{
+  text-align: center;
+}
+.title5{
+  color: brown;
+  font-size: 1.3em;
+}
+.title6{
+  color: brown;
+  font-size: 1.3em;
+}
+.title7{
+  color: brown;
+  font-size: 1.3em;
+}
+.title8{
+  color: brown;
+  font-size: 1.3em;
+}
+.title9{
+  color: brown;
+  font-size: 1.3em;
+}
+.test1{
+  height: 450px;
+  width: 450px;
+  background-color: skyblue;
+  border: 5px solid grey;
+  border-radius: 100%;
+  display: inline-block;
+  position:absolute;
+  top: 500px;
+  left: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.5em;
+  text-align:center;
+  font-style: italic;
+  text-decoration-line: underline;
+  font-weight: bold;
+}
+hr.new1 {
+  border-top: 1px solid white;
+}
+hr.new2 {
+  border-top: 1px solid grey;
+}
+.flex-container5 {
+  background-color:black;
+  border: 5px solid red;
+  border-radius:50px;
+  width: 400px;
+  height: 60px;
+  position: absolute; 
+  top: 1100px;
+  right: 480px;
+  color: white;
+  text-align:center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.2em;
+  font-weight:bold;
+}
+hr.new3{
+  border-top: 1px solid grey;
+
+}
+.flex-container6 {
+  background-color: skyblue;
+  border: 5px solid green;
+  border-radius:50px;
+  width: 400px;
+  height: 250px;
+  position: absolute; 
+  top: 100px;
+  right: 430px;
+}
+b{
+  color:rgba(3, 3, 184, 0.993);
+  font-size: 30px;
+  font-weight:bold;
+}
+.tap1{
+  font-size: 0.9em;
+  color:rgb(99, 99, 238);
+}
+.flex-container7 {
+  background-color:skyblue;
+  border: 5px solid green;
+  border-radius:50px;
+  width: 400px;
+  height: 250px;
+  position: absolute; 
+  top: 100px;
+  left: 10 px;
+  color: blue;
+}
+.flex-container8 {
+  background-color:skyblue;
+  border: 5px solid green;
+  border-radius:50px;
+  width: 400px;
+  height: 250px;
+  position: absolute; 
+  top: 100px;
+  left: 450px;
+}
+.flex-container9 {
+  background-color:skyblue;
+  border: 5px solid green;
+  border-radius:50px;
+  width: 400px;
+  height: 250px;
+  position: absolute; 
+  top: 450px;
+  right: 430px;
+}
+.flex-container10 {
+  background-color:skyblue;
+  border: 5px solid green;
+  border-radius:50px;
+  width: 400px;
+  height: 250px;
+  position: absolute; 
+  top: 450px;
+  left: 10px;
+}
+.flex-container11 {
+  background-color:skyblue;
+  border: 5px solid green;
+  border-radius:50px;
+  width: 400px;
+  height: 300px;
+  position: absolute; 
+  top: 450px;
+  left: 450px;
+}
